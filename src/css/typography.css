@@ -1,0 +1,101 @@
+html {
+  font-family: 'Proxima Nova Regular', sans-serif;
+  color: #4a4a4a;
+}
+h1 {
+  font-family: 'DINPro Medium', sans-serif;
+  color: #333333;
+  font-size: 44px;
+  line-height: 56px;
+}
+h3,
+h4 {
+  font-family: 'Proxima Nova Bold', sans-serif;
+  color: #333333;
+}
+h3,
+.body-l {
+  font-size: 18px;
+  line-height: 26px;
+}
+h4,
+.body-m {
+  font-size: 16px;
+  line-height: 22px;
+}
+h5,
+.h5-style {
+  font-size: 12px;
+  line-height: 14px;
+  color: #7a7a7a;
+  font-family: 'Proxima Nova Bold', sans-serif;
+  text-transform: uppercase;
+}
+.body-s {
+  font-size: 14px;
+  line-height: 18px;
+}
+.ad-label {
+  font-size: 10px;
+  color: #7a7a7a;
+  text-transform: uppercase;
+  font-family: 'Proxima Nova Bold', sans-serif;
+  text-align: right;
+}
+
+.color-pebble {
+  color: #7a7a7a;
+}
+.mt-05 {
+  margin-top: 5px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mb-30 {
+  margin-bottom: 30px;
+}
+.mb-45 {
+  margin-bottom: 45px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mb-15 {
+  margin-bottom: 15px;
+}
+.pt-30 {
+  padding-top: 30px;
+}
+.pb-30 {
+  padding-bottom: 30px;
+}
+.pt-15 {
+  padding-top: 15px;
+}
+.pb-15 {
+  padding-bottom: 15px;
+}
+.pr-10 {
+  padding-right: 10px;
+}
+
+
+@font-face {
+  font-family: 'Proxima Nova Regular';
+  src: url('/fonts/ProximaNova-Regular.woff2') format('woff2'),
+       url('/fonts/ProximaNova-Regular.woff') format('woff');
+  font-weight: regular;
+}
+@font-face {
+  font-family: 'Proxima Nova Bold';
+  src: url('/fonts/ProximaNova-Bold.woff2') format('woff2'),
+       url('/fonts/ProximaNova-Bold.woff') format('woff');
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'DINPro Medium';
+  src: url('/fonts/DINPro-Medium.woff2') format('woff2'),
+       url('/fonts/DINPro-Medium.woff') format('woff');
+  font-weight: medium;
+}
