@@ -83,19 +83,19 @@ h5,
 
 @font-face {
   font-family: 'Proxima Nova Regular';
-  src: url('fonts/ProximaNova-Regular.woff2') format('woff2'),
-       url('fonts/ProximaNova-Regular.woff') format('woff');
+  src: url('../fonts/ProximaNova-Regular.woff2') format('woff2'),
+       url('../fonts/ProximaNova-Regular.woff') format('woff');
   font-weight: regular;
 }
 @font-face {
   font-family: 'Proxima Nova Bold';
-  src: url('fonts/ProximaNova-Bold.woff2') format('woff2'),
-       url('fonts/ProximaNova-Bold.woff') format('woff');
+  src: url('../fonts/ProximaNova-Bold.woff2') format('woff2'),
+       url('../fonts/ProximaNova-Bold.woff') format('woff');
   font-weight: bold;
 }
 @font-face {
   font-family: 'DINPro Medium';
-  src: url('fonts/DINPro-Medium.woff2') format('woff2'),
-       url('fonts/DINPro-Medium.woff') format('woff');
+  src: url('../fonts/DINPro-Medium.woff2') format('woff2'),
+       url('../fonts/DINPro-Medium.woff') format('woff');
   font-weight: medium;
 }
