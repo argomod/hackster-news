@@ -17,7 +17,7 @@ class SideBanner extends Component {
           />
           <div className="ad-label mt-10">Advertisement</div>
         </div>
-        <div class="newsletter-cta">
+        <div className="newsletter-cta">
           <div className="newsletetr-cta-text mb-15">
             <p className="body-l pr-10">
               Get our weekly newsletter when you join Hackster.

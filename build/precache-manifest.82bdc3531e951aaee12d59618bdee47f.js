@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8935b3a7d1203523572157f2f0077e2f",
+    "revision": "a1a6d4bc64d87351151658f3a26cc3f2",
     "url": "/hackster-news/index.html"
   },
   {
-    "revision": "e8c3881e0e2da4d11fc5",
+    "revision": "d368ef8abc7f9339f8e9",
     "url": "/hackster-news/static/css/main.c4cf9d87.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hackster-news/static/js/2.f350292b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8c3881e0e2da4d11fc5",
-    "url": "/hackster-news/static/js/main.8eb8958b.chunk.js"
+    "revision": "d368ef8abc7f9339f8e9",
+    "url": "/hackster-news/static/js/main.ceda016f.chunk.js"
   },
   {
     "revision": "a309c4a4bdde3920363a",
