@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hackster-news/static/css/main.c4cf9d87.chunk.css",
+    "main.css": "/hackster-news/static/css/main.c663e9a1.chunk.css",
     "main.js": "/hackster-news/static/js/main.ceda016f.chunk.js",
     "main.js.map": "/hackster-news/static/js/main.ceda016f.chunk.js.map",
     "runtime-main.js": "/hackster-news/static/js/runtime-main.7dda3151.js",
@@ -8,15 +8,16 @@
     "static/js/2.f350292b.chunk.js": "/hackster-news/static/js/2.f350292b.chunk.js",
     "static/js/2.f350292b.chunk.js.map": "/hackster-news/static/js/2.f350292b.chunk.js.map",
     "index.html": "/hackster-news/index.html",
-    "precache-manifest.82bdc3531e951aaee12d59618bdee47f.js": "/hackster-news/precache-manifest.82bdc3531e951aaee12d59618bdee47f.js",
+    "precache-manifest.11ba7fd8ef005a2e5819fe51218818e7.js": "/hackster-news/precache-manifest.11ba7fd8ef005a2e5819fe51218818e7.js",
     "service-worker.js": "/hackster-news/service-worker.js",
-    "static/css/main.c4cf9d87.chunk.css.map": "/hackster-news/static/css/main.c4cf9d87.chunk.css.map",
-    "static/js/2.f350292b.chunk.js.LICENSE.txt": "/hackster-news/static/js/2.f350292b.chunk.js.LICENSE.txt"
+    "static/css/main.c663e9a1.chunk.css.map": "/hackster-news/static/css/main.c663e9a1.chunk.css.map",
+    "static/js/2.f350292b.chunk.js.LICENSE.txt": "/hackster-news/static/js/2.f350292b.chunk.js.LICENSE.txt",
+    "static/media/typography.css": "/hackster-news/static/media/ProximaNova-Regular.40faf497.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.7dda3151.js",
     "static/js/2.f350292b.chunk.js",
-    "static/css/main.c4cf9d87.chunk.css",
+    "static/css/main.c663e9a1.chunk.css",
     "static/js/main.ceda016f.chunk.js"
   ]
 }
